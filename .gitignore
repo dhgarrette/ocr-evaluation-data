@@ -1,0 +1,12 @@
+.DS_Store
+.classpath
+.project
+.settings
+project/
+target/
+/bin/
+.cache
+.cache-main
+.cache-tests
+.worksheet
+
